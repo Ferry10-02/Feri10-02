@@ -25,7 +25,7 @@ Saya suka warna, animasi, dan UI aesthetic ✨🌈.
 
 ---
 
-# ⚙️ Tech Stack (Dengan GAMBAR Ikon)  
+# ⚙️ Tech Stack 
 
 ### 🔤 **Bahasa Pemrograman**
 <p>
