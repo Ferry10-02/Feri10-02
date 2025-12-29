@@ -74,14 +74,15 @@ Saya suka warna, animasi, dan UI aesthetic ✨🌈.
 
 # 🌐 Social & Contact  
 
-### 📱 **WhatsApp**
-🔗 **https://wa.me/6285772416042**
+### 📱 WhatsApp
+🔗 https://wa.me/6285772416042
 
-### 📸 **Instagram**
-🔗 **https://www.instagram.com/ferry_programmer?igsh=bjEyYnNzcTgzaW00**
+### 📸 Instagram
+🔗 https://www.instagram.com/ferry_programmer
 
-### 📘 **Facebook**
-🔗 **https://www.facebook.com/ferry.efransyah.2025**
+### 📘 Facebook
+🔗 https://www.facebook.com/ferry.efransyah.2025
+
 
 ---
 
@@ -96,8 +97,3 @@ Saya suka warna, animasi, dan UI aesthetic ✨🌈.
 ![Visitors](https://komarev.com/ghpvc/?username=Ferry10-02&color=ff69b4)
 
 ---
-
-<p align="center">
-  🌈 <strong>Terus Berkarya — Terus Berwarna!</strong> 🌈  
-  <br>Made with ❤️ by Ferry Efransyah
-</p>
